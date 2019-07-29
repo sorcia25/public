@@ -1,0 +1,37 @@
+{
+ "id": "4030c74f34027344d16ebe4ede78e64f",
+ "key": "4030c74f34027344d16ebe4ede78e64f",
+ "value": {"rev": "1-3d5d1655ffde3c8260d1f26fcef6df46"},
+ "doc": {
+	"_id": "4030c74f34027344d16ebe4ede78e64f",
+	"_rev": "1-3d5d1655ffde3c8260d1f26fcef6df46",
+	"topic": "gpssin",
+	"payload": {
+		"type": "FeatureCollection",
+		"features": [
+			{
+			 "type": "Feature",
+				"properties": {},
+				"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"19.435188",
+					"-099.179685"
+					]
+				}
+			},
+			{
+			 "type": "Feature",
+			 "properties": {}
+			},
+			{}
+		]
+		},
+	  "qos": 0,
+	  "retain": false,
+	  "string": [
+		   "19.435188",
+		   "-099.179685"
+		]
+	}
+}
